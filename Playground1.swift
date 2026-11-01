@@ -10,4 +10,9 @@ import Playgrounds
     
     let fullGreeting = greeting + question
     print(fullGreeting)
+    
+    class Person {
+        let name = "John"
+    }
+    let newPerson = Person()
 }
