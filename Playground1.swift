@@ -5,4 +5,6 @@ import Playgrounds
     let greeting = "Hello world!"
     
     print(greeting)
+    
+    let question = "How are you?"
 }
