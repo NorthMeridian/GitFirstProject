@@ -9,4 +9,5 @@ import Playgrounds
     print(question)
     
     let fullGreeting = greeting + question
+    print(fullGreeting)
 }
