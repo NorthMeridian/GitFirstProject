@@ -7,4 +7,6 @@ import Playgrounds
     
     let question = "How are you?"
     print(question)
+    
+    let fullGreeting = greeting + question
 }
